@@ -9,3 +9,7 @@
 ## Usage
 - All pages will be loaded with preloader
 - For creating fade style transition between pages, add `outContent` class to link with href attribute
+
+## CDN
+You can use cdn rawgit delivery network for production usage:
+https://cdn.rawgit.com/khudia/preloaderjs/2cd5040b/preloader.min.js
