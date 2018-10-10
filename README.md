@@ -15,5 +15,4 @@
 --data-colorBg="#ccc"
 
 ## CDN
-You can use cdn rawgit delivery network for production usage:
-https://cdn.rawgit.com/khudia/preloaderjs/2cd5040b/preloader.min.js
+
