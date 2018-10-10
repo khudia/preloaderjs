@@ -1,14 +1,18 @@
 #Description
-**PreloaderJS ** - small js file to enable preloader for every page on your project with light fadeIn effect. It also gives you ability to use fadeOut transitions between pages.
+**PreloaderJS ** - small js file to enable preloader for every page on your project with light fadeIn effect. 
 
 ## Installation
-- add any jquery inside `<head>`
-- add preloaderjs.min.js after jquery
-- add tag defer to jquery and preloaderjs
+- add preloaderjs.min.js in to start of head tag
 
 ## Usage
 - All pages will be loaded with preloader
-- For creating fade style transition between pages, add `outContent` class to link with href attribute
+- You can use options. For this it need to add attribute "id" with value "prscript".
+- Then here the example of options: 
+--data-bg="#fff" 
+--data-width="80px" 
+--data-height="80px" 
+--data-colorMain="red" 
+--data-colorBg="#ccc"
 
 ## CDN
 You can use cdn rawgit delivery network for production usage:
